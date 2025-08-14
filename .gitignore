@@ -1,0 +1,13 @@
+
+bin/
+*.exe
+*.out
+*.o
+*.obj
+compile_commands.json
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+*.swp
+.cache/
